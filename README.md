@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Kana 👋
+
+I am a full-stack software engineer pursuing my passion to make a positive impact on people’s lives. 
+Whether it be through enhancing cost efficiency or maximizing revenue to ultimately provide value to the end-user, or creating a savvy product to reach individuals directly, the ability of technology to reach people of all different genres is a huge motivator for me, as it aligns perfectly with my values.
+
+In my most recent projects, I've used full-stack JavaScript with React for interactive and dynamic front-end views, as well as Node.js and Express to create RESTful APIs on the back-end. I have experience with PostgreSQL, MySQL, and MongoDB to manage data storage, scaled my microservices on AWS with Docker, and load-balanced with NGINX.
+
+When I am not on my laptop, you can find me outside - hiking, traveling, or walking my shiba-inu! 
+
+📫 You can reach me at 📫 
+www.linkedin.com/in/kanako-eguchi
 
 <!--
 **Kana-E/Kana-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
